@@ -1,8 +1,4 @@
-# Persian Date Normalizer using ParsT5 🇮🇷
-
-This project was built on the **ParsT5** architecture (`Ahmad/parsT5-base`) designed to normalize and standardize informal Persian dates into a clean, formal format (`YYYY/MM/DD`).
-
----
+# Persian Date Normalizer using ParsT5
 
 ## Overview
 
