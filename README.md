@@ -4,12 +4,6 @@ This project was built on the **ParsT5** architecture (`Ahmad/parsT5-base`) desi
 
 ---
 
-## Repository Structure
-```text
-├── Final.ipynb                
-├── data-generation.py         # Script for generating synthetic informal Persian date samples
-└── persian_dates_dataset.csv  # Dataset containing informal phrases and formal target dates
-```
 ## Overview
 
 Persian dates can appear in different formats, including:
@@ -22,6 +16,14 @@ Persian dates can appear in different formats, including:
 This project fine-tunes a pretrained ParsT5 model to transform these different representations into a consistent format:
 
 `YYYY/MM/DD`
+
+
+## Repository Structure
+```text
+├── Final.ipynb                
+├── data-generation.py         # Script for generating synthetic informal Persian date samples
+└── persian_dates_dataset.csv  # Dataset containing informal phrases and formal target dates
+```
 
 ## Model
 
