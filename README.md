@@ -9,7 +9,7 @@ This project was built on the **ParsT5** architecture (`Ahmad/parsT5-base`) desi
 ├── Final.ipynb                
 ├── data-generation.py         # Script for generating synthetic informal Persian date samples
 └── persian_dates_dataset.csv  # Dataset containing informal phrases and formal target dates
-
+```
 ## Overview
 
 Persian dates can appear in different formats, including:
