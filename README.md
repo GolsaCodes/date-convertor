@@ -52,14 +52,13 @@ The model is fine-tuned using the Hugging Face `Trainer` API.
 
 The training process includes:
 
-1. Loading the pretrained ParsT5 model and tokenizer.
-2. Preparing input and target text.
-3. Splitting the dataset into training and test sets.
-4. Tokenizing the input and target sequences.
-5. Fine-tuning the model for 10 epochs.
-6. Evaluating the model after each epoch.
-7. Saving model checkpoints.
-
+- Loading the pretrained ParsT5 model and tokenizer.
+- Preparing input and target text.
+- Splitting the dataset into training and test sets.
+- Tokenizing the input and target sequences.
+- Fine-tuning the model for 10 epochs.
+- Evaluating the model after each epoch.
+ 
 ## Example
 
 **Input:**
